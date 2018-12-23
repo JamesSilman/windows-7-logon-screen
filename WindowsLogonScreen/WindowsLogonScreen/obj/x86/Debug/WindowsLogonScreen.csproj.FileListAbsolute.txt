@@ -1,0 +1,9 @@
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\bin\Debug\WindowsLogonScreen.exe
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\bin\Debug\WindowsLogonScreen.pdb
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\obj\x86\Debug\WindowsLogonScreen.Form1.resources
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\obj\x86\Debug\WindowsLogonScreen.Properties.Resources.resources
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\obj\x86\Debug\ResGen.read.1.tlog
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\obj\x86\Debug\ResGen.write.1.tlog
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\obj\x86\Debug\WindowsLogonScreen.exe
+E:\Documents\Projects\WindowsLogonScreen\Code\WindowsLogonScreen\WindowsLogonScreen\obj\x86\Debug\WindowsLogonScreen.pdb
